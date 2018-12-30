@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/meme-react/static/js/runtime~main.ae4b04fd.js"
   },
   {
-    "revision": "71dddb3e460e785992e1",
-    "url": "/meme-react/static/js/main.71dddb3e.chunk.js"
+    "revision": "3c8dc4965e2e0bcd35b5",
+    "url": "/meme-react/static/js/main.3c8dc496.chunk.js"
   },
   {
     "revision": "835979ed9860de7c295e",
     "url": "/meme-react/static/js/1.835979ed.chunk.js"
   },
   {
-    "revision": "71dddb3e460e785992e1",
+    "revision": "3c8dc4965e2e0bcd35b5",
     "url": "/meme-react/static/css/main.17ab679c.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/meme-react/static/css/1.f820bff9.chunk.css"
   },
   {
-    "revision": "ac61a21e746cf89677e4cf72c6363211",
+    "revision": "ef51acadd816f2f34f7b84c71910f405",
     "url": "/meme-react/index.html"
   }
 ];
